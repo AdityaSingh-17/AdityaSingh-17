@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aditya Rajneesh Singh.
+- 👀 I’m interested in Data Science and Machine Learning.
+- 🌱 I’m currently learning levering the Pega platform.
+- 📫 Reach me at: [Gmail](mailto:adityarsingh17@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adityarajneeshsingh/)
